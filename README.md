@@ -1,2 +1,3 @@
-# javascript-origamid
-Exercícios e anotações do curso de Javascript da Origamid.
+#  :computer: JavaScript Origamid
+
+Exercícios e anotações do curso de JavaScript da Origamid.
